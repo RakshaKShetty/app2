@@ -1,4 +1,17 @@
 {
+  "appIsExample": false,
+  "appLayout": {
+    "type": "DESKTOP"
+  },
+  "applicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "applicationVersion": 2,
+  "color": "#F5D1D1",
+  "evaluationVersion": 2,
+  "icon": "frame",
   "pages": [
     {
       "id": "Websocket with Mutations",
@@ -13,32 +26,12 @@
       "isDefault": false
     }
   ],
-  "viewMode": false,
-  "appIsExample": false,
-  "unreadCommentThreads": 0,
-  "clonedFromApplicationId": "64d4c81f87d923143c649282",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
     }
-  },
-  "color": "#F5D1D1",
-  "icon": "frame",
-  "unpublishedAppLayout": {
-    "type": "DESKTOP"
-  },
-  "publishedAppLayout": {
-    "type": "DESKTOP"
-  },
-  "unpublishedCustomJSLibs": [
-    {
-      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
-    }
-  ],
-  "publishedCustomJSLibs": [],
-  "evaluationVersion": 2,
-  "applicationVersion": 2,
-  "isManualUpdate": false,
-  "forkedFromTemplateTitle": "Crypto Live Tracker",
-  "deleted": false
+  }
 }
