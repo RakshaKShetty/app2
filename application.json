@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "id": "Websocket with Mutations",
+      "isDefault": true
+    },
+    {
+      "id": "Gac",
+      "isDefault": false
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "64d4c81f87d923143c649282",
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "color": "#F5D1D1",
+  "icon": "frame",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "forkedFromTemplateTitle": "Crypto Live Tracker",
+  "deleted": false
+}

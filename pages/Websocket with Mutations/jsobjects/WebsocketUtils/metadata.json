@@ -1,0 +1,36 @@
+{
+  "unpublishedCollection": {
+    "name": "WebsocketUtils",
+    "pageId": "Websocket with Mutations",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "socketResponseData",
+        "value": "{}"
+      },
+      {
+        "name": "WEBSOCKET_ENDPOINT",
+        "value": "\"wss://stream-internal.wazirx.com/stream\""
+      },
+      {
+        "name": "socket",
+        "value": "undefined"
+      },
+      {
+        "name": "lastUpdateTimestamp",
+        "value": "0"
+      },
+      {
+        "name": "updateResponseDelay",
+        "value": "5000"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Websocket with Mutations_WebsocketUtils",
+  "deleted": false,
+  "gitSyncId": "63da1136b8b46679d1911d96_647f8d7f0267f030216226e3"
+}
